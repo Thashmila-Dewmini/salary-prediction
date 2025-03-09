@@ -6,7 +6,7 @@ This project demonstrates a simple **salary prediction model** using **Linear Re
 
 ## 🔍 Overview
 - 📌 **Algorithm Used:** Linear Regression  
-- 📊 **Dataset:** A CSV file containing "Years of Experience" and "Salary"  
+- 📊 **Dataset:** A CSV file containing "Years of Experience","Salary" and more features 
 - 🚀 **Goal:** Train a machine learning model to predict salaries based on experience  
 - 🛠 **Libraries Used:** Pandas, NumPy, Scikit-Learn, Matplotlib  
 
