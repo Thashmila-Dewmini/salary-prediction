@@ -12,5 +12,5 @@ This project demonstrates a simple **salary prediction model** using **Linear Re
 
 ---
 
-## 📂 Project Structure
+
 
